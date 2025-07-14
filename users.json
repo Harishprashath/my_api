@@ -1,14 +1,16 @@
-{
-        "name": "harish",
-        "age": 19,
-        "occupation": "Software Engineer",
-        "location": "Chennai, India",
-        "hobbies": ["Reading", "Hiking", "Gaming"]
-      },
-      {
-        "name": "sodalai",
-        "age": 19,
-        "occupation": "Graphic Designer",
-        "location": "Bangalore, India",
-        "hobbies": ["Photography", "Traveling", "Cooking"]
-      }
+[
+  { 
+    "name": "Harish", 
+    "age": 29,
+    "occupation": "Software Engineer",
+    "location": "Chennai, India",
+    "hobbies": ["Reading", "Hiking", "Gaming"]
+  },
+  {
+    "name": "Dhayanish",
+    "age": 27,
+    "occupation": "Graphic Designer",
+    "location": "Bangalore, India",
+    "hobbies": ["Photography", "Traveling", "Cooking"]
+  }
+]
